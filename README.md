@@ -17,4 +17,8 @@ I've created 4 functions to display volunteer's information:
   * bubble chart to show types and values of bacterias found
   * gauge chart for belly button washing frequency
 4. optionChanged() which tracks the option change and call buildMetadata() and buildCharts() functions
-Website can be accessed by going to
+
+Website can be accessed by going to https://shamayun.github.io/Population_Bacteria_Biodiversity/
+
+![image](https://user-images.githubusercontent.com/96354508/160321114-e075e538-6ef0-45e9-af0b-45f48d23de45.png)
+
