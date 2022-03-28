@@ -9,7 +9,7 @@ A dashboard to dynamically visualize and share bacteria samples data. The drop d
 * CSS &
 * Plotly
 ## Results
-I've created 4 functions to display volunteer's information:
+I have created 4 functions to display volunteer's information:
 1. init() that gets data from .json file and builds a selector with options to choose,
 2. buildMetadata() which builds table "Demographic Info" with metadata of the volunteer based on id, gender, age, location 
 3. buildCharts() that builds charts:
